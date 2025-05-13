@@ -1,4 +1,4 @@
-/* Base styles */
+
 body {
      font-family: 'Segoe UI', sans-serif;
     background: linear-gradient(135deg, #ed75c3, #ecde75);
@@ -11,13 +11,13 @@ p{
     text-align: center;
 }
 
-/* Typography */
+
 h1, h2 {
     color: #005f99;
     text-align: center;
 }
 
-/* Box Model and Visual Rules */
+
 img {
     display: block;
     margin: 0 auto;
@@ -27,7 +27,7 @@ img {
     width: 200px;
 }
 
-/* Skill List */
+
 ul {
     background-color: #e6f3ff;
     border: 1px solid #005f99;
@@ -36,7 +36,7 @@ ul {
     margin: 10px auto;
 }
 
-/* Table styling */
+
 table {
     width: 80%;
     margin: 0 auto;
@@ -55,7 +55,7 @@ th {
     color: white;
 }
 
-/* Form styling */
+
 form {
     background-color: #fff;
     padding: 15px;
@@ -87,13 +87,13 @@ input[type="submit"]:hover {
     background-color: #003f66;
 }
 
-/* Video section */
+
 iframe {
     display: block;
     margin: 20px auto;
 }
 
-/* Positioning example */
+
 h1 {
     position: relative;
     top: 10px;
